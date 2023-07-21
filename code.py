@@ -1,1 +1,1 @@
-this is my second demo project
+hai this my first python demo project
